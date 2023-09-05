@@ -6,7 +6,6 @@
 
 - **VirtualBox** - среда виртуализации, позволяет создавать и выполнять виртуальные машины;
 - **Vagrant** - ПО для создания и конфигурирования виртуальной среды. В данном случае в качестве среды виртуализации используется *VMware*;
-- **Packer** - ПО для создания образов виртуальных машин;
 - **Git** - система контроля версий
 - **Python 3.8** - ЯП для компиляции Mech (https://www.python.org/ftp/python/3.8.1/python-3.8.1-amd64.exe)
 - **PyPi** - скрипт для установки Mech https://pythonru.com/baza-znanij/ustanovka-pip-dlja-python-i-bazovye-komandy
